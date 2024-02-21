@@ -65,7 +65,7 @@ Below is the graph for the decryption/Encryption time with a plain text of size:
 
 ![image](https://github.com/DhruvPawar22/AES-RSA_Hybrid/assets/90130789/11f246f3-fbf4-4b95-992b-1b78249ba9a1)
 
- Improvements: test cases against other algorithms in terms of time.
+ Improvements: test cases against other algorithms in terms of time. AIM:Password Encryption, File Encryption.
 References:
 1.	Vol 9_1_1.pdf (scienpress.com)- Modification and customization of cryptographic algorithms-George Marinakisnm
 2.	https://www.geeksforgeeks.org/advanced-encryption-standard-aes/
